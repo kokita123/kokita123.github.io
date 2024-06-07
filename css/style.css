@@ -1,0 +1,200 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(214, 103, 190);
+
+  }
+  
+  li {
+    float: left;
+  }
+  
+.ok {
+  text-align:center; 
+  font-size: 20px
+}
+
+.no {
+  display: block; 
+  text-align:left;  
+  margin: auto
+}
+.mo
+{
+  display: block; 
+  text-align:center; 
+   margin: auto
+}
+.ba
+{
+  text-align:left;
+   font-size: 25px
+}
+.nour
+{
+  text-align:left;
+  color:rgb(182, 81, 9) ;
+  font-size: 60px 
+}
+
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding: 40px 40px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: rgb(14, 199, 85);
+  }
+
+
+ /* Large desktop */
+@media (min-width: 1200px) { 
+  body    {
+      padding-left: 50px;
+      padding-right: 50px;
+      background-color:white;
+  }
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 1199px) { 
+  body    {
+      padding-left: 30px;
+      padding-right: 30px;
+      background-color: rgb(206, 149, 206);
+  }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { 
+  body    {
+      padding-left: 20px;
+      padding-right: 20px;
+      background-color: rgb(31, 226, 226);
+  }
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) { 
+  body    {
+      padding-left: 5px;
+      padding-right: 5px;
+      background-color: rgb(197, 230, 145);
+  }
+  footer {
+    display: block;
+  }
+  
+}
+div
+{ 
+  margin: auto;
+  width:50%;
+  height: 700px;
+}
+h2
+{ 
+color:red; font-size:40px
+
+}
+.rab
+{
+  color:rgb(0, 0, 0); 
+  font-size:30px
+}
+
+.kab
+{
+  color: orangered
+
+}
+.ka{
+  background-image: url('../images/fille.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.maclasspink{ 
+  color:rebeccapurple;
+  text-align:  center;
+}
+
+h2
+{ 
+color:red; font-size:40px
+}
+.classpink{ 
+  color:rebeccapurple;
+  text-align:  center;
+}
+.co
+{
+  color:rgb(0, 0, 0); font-size:30px"
+}
+.ra
+{
+  text-align:center;
+  font: size 160px
+}
+.si{
+  color:rgb(0, 0, 0);
+   font-size:25px
+}
+.di{
+  display: block;
+   text-align:right;  
+   margin: auto
+  
+}
+.bi{
+  color: rgb(163, 37, 37);
+  font-size:40px
+}
+h1
+{
+  text-align:center;
+   color:red; font-size: 30px 
+}
+h1{
+  text-align:center;
+  font: size 160px
+}
+  
+
+.img
+{
+  text-align:center;
+  font: size 160px
+}
+.text
+{
+  text-align:center;
+   background-color:green; 
+   font-size: 50px 
+}
+.text2
+{
+  text-align:center; 
+  color:red; 
+  font-size: 50px " 
+}
+.tem
+{
+  text-align:center;
+   color:red; font-size: 30px 
+}
+.you
+{
+  font-size:160%;
+}
+.ni
+{
+  color:salmon;
+   font-size:20px
+}
